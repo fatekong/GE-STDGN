@@ -16,23 +16,41 @@
 ## Directory description
 
 ├── Readme.md                   // help
+
 ├── requirements.txt            // 
+
 ├── GE                          // graph evolution
+
 │   ├── Geo_threshold.py        // the adjacency matrix generation method based on geographical threshold
+
 │   ├── KNN.py                  // the adjacency matrix generation method based on k nearest-neighbor 
+
 │   ├── TIN.py                  // the adjacency matrix generation method based on triangulated irregular network
+
 │   ├── parallel.py             // multi-GPUs parapall control
+
 │   ├── population.py           // define about population
+
 │   ├── utils.py                // define about genetic operations
+
 │   └── individual.py           // define about individuals
+
 ├── baseline.py                 // baselines based on traditional machine learning methods
+
 ├── feature_selection.py        // feature selection
+
 ├── graph_evolution.py          // setup of graph evolution
+
 ├── main.py
+
 ├── measure.py                  // evaluation standard
+
 ├── model.py                    // model of STDGN
+
 ├── model_fs.py                 // model used in feature selection
+
 ├── tester.py
+
 └── trainer.py
 
 ## Expiremental setup
