@@ -1,6 +1,5 @@
 # GE-STDGN
  Spatio-temporal weather prediction model based on graph evolution
-===
 ## Requirement
 * pytorch (see https://pytorch.org/get-started/locally/ for how to install it)
 * GPU
