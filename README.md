@@ -18,8 +18,8 @@
 - Readme.md                   // help
 - requirements.txt            // 
 - GE                          // graph evolution
- - Geo_threshold.py           // the adjacency matrix generation method based on geographical threshold
- - KNN.py                     // the adjacency matrix generation method based on k nearest-neighbor 
+  - Geo_threshold.py           // the adjacency matrix generation method based on geographical threshold
+  - KNN.py                     // the adjacency matrix generation method based on k nearest-neighbor 
  - TIN.py                     // the adjacency matrix generation method based on triangulated irregular network
  - parallel.py                // multi-GPUs parapall control
  - population.py              // define about population
