@@ -8,9 +8,9 @@
 
 ## Dataset
 
-The source dataset is in [Google Drive](https://drive.google.com/file/d/1R6hS5VAgjJQ_wu8i5qoLjIxY0BG7RD1L/view) and [Baiduyun](https://drive.google.com/file/d/1R6hS5VAgjJQ_wu8i5qoLjIxY0BG7RD1L/view) with code `ni44`.
+* The source dataset is in [Google Drive](https://drive.google.com/file/d/1R6hS5VAgjJQ_wu8i5qoLjIxY0BG7RD1L/view) and [Baiduyun](https://drive.google.com/file/d/1R6hS5VAgjJQ_wu8i5qoLjIxY0BG7RD1L/view) with code `ni44`.
 
-The source dataset and processed dataset are in [Google Drive](https://drive.google.com/drive/folders/1dWsPYqnkNcZi4s4WDTDAnOI359Lot2YE?usp=sharing)
+* The source dataset and processed dataset are in [Google Drive](https://drive.google.com/drive/folders/1dWsPYqnkNcZi4s4WDTDAnOI359Lot2YE?usp=sharing)
 
 
 ## Directory description
