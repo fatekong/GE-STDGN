@@ -37,7 +37,7 @@
 ## Expiremental setup
 
 ### graph generation
-* k->[6,23], $\beta$ between distance and altitude is 0.8 in KNN
+* k->[6,23], $$\beta$$ between distance and altitude is 0.8 in KNN
 * threshold in distance is 300km, and altitude is 1200m
 
 ### graph evolution 
